@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T16:06:31 IST" name="Default suite" finished-at="2024-07-15T16:06:42 IST" duration-ms="10603">
+    <groups>
+    </groups>
+    <test started-at="2024-07-15T16:06:31 IST" name="Default test" finished-at="2024-07-15T16:06:42 IST" duration-ms="10603">
+      <class name="API_Testing.BeecepterAPI">
+        <test-method signature="Calculation()[pri:0, instance:API_Testing.BeecepterAPI@5d0bf09b]" started-at="2024-07-15T16:06:31 IST" name="Calculation" finished-at="2024-07-15T16:06:36 IST" duration-ms="4035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calculation -->
+        <test-method signature="CurrencyExchange()[pri:0, instance:API_Testing.BeecepterAPI@5d0bf09b]" started-at="2024-07-15T16:06:36 IST" name="CurrencyExchange" finished-at="2024-07-15T16:06:37 IST" duration-ms="1086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CurrencyExchange -->
+        <test-method signature="ListTransactions()[pri:0, instance:API_Testing.BeecepterAPI@5d0bf09b]" started-at="2024-07-15T16:06:37 IST" name="ListTransactions" finished-at="2024-07-15T16:06:38 IST" duration-ms="1086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListTransactions -->
+        <test-method signature="RegisterSuccefuly()[pri:0, instance:API_Testing.BeecepterAPI@5d0bf09b]" started-at="2024-07-15T16:06:38 IST" name="RegisterSuccefuly" finished-at="2024-07-15T16:06:39 IST" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterSuccefuly -->
+        <test-method signature="RetrieveBalance()[pri:0, instance:API_Testing.BeecepterAPI@5d0bf09b]" started-at="2024-07-15T16:06:39 IST" name="RetrieveBalance" finished-at="2024-07-15T16:06:40 IST" duration-ms="1065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RetrieveBalance -->
+        <test-method signature="Transfer()[pri:0, instance:API_Testing.BeecepterAPI@5d0bf09b]" started-at="2024-07-15T16:06:40 IST" name="Transfer" finished-at="2024-07-15T16:06:41 IST" duration-ms="1074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Transfer -->
+        <test-method signature="loginSuccessfully()[pri:0, instance:API_Testing.BeecepterAPI@5d0bf09b]" started-at="2024-07-15T16:06:41 IST" name="loginSuccessfully" finished-at="2024-07-15T16:06:42 IST" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccessfully -->
+      </class> <!-- API_Testing.BeecepterAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
